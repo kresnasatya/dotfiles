@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Default Light Modern",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 40,
+    "editor.suggestLineHeight": 20,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}
