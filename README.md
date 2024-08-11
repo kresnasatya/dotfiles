@@ -3,8 +3,16 @@ Kresna Satya's personal setup on Computer.
 
 ## macOS
 
+- Homebrew
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+- [.zshrc](/.zshrc)
 - Visual Studio Code
-- Intellij IDEA Community
+- [VS Code personal Settings](/vscode-user-settings/settings.json)
+- Zed editor
 - Table Plus
 - DBngin
 - Postman
@@ -17,13 +25,12 @@ Kresna Satya's personal setup on Computer.
 - The Unarchiver
 - Discord
 - Cloudflare Warp
-- Office 365
-- Swift Playground
-- Homebrew
 - Google Chrome
 - Firefox
+- [Zotero for Citation Paper (alternative of Mendeley)](https://www.zotero.org/) -> Optional
 - Android Studio -> Optional
-- [Zotero for Citation Paper (alternative of Mendeley)](https://www.zotero.org/)
+- Swift Playgrounds -> Optional
+- Office 365 -> Optional
 
 ## Windows with WSL
 
