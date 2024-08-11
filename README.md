@@ -10,6 +10,7 @@ Kresna Satya's personal setup on Computer.
 - Postman
 - Notion
 - Figma
+- [Herd by Laravel](https://herd.laravel.com)
 - [Bezel](https://getbezel.app/)
 - [Orbstack for Docker](https://orbstack.dev/)
 - App Cleaner
