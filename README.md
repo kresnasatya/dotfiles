@@ -21,8 +21,8 @@ Kresna Satya's personal setup on Computer.
 - [Herd by Laravel](https://herd.laravel.com)
 - [Bezel](https://getbezel.app/)
 - [Orbstack for Docker](https://orbstack.dev/)
-- App Cleaner
-- The Unarchiver
+- [App Cleaner](https://freemacsoft.net/appcleaner/)
+- [The Unarchiver](https://theunarchiver.com/)
 - Discord
 - Cloudflare Warp
 - Google Chrome
